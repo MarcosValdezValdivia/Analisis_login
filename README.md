@@ -7,7 +7,7 @@ El script esta desarrollado en Python y utiliza la biblioteca "pandas" para proc
 
 El programa realiza:
 -Lectura de un archivo CSV
-- COnversion de fechas a formato datetime
+- Conversion de fechas a formato datetime
 -Calculo de estadisticas basicas
 -Conteo de registros total
 -Conteo de intentos fallidos
